@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 header:
@@ -21,7 +21,7 @@ Research
 ======
 I am a "paleomagician" interested in the formation and evolution of planetary magnetic fields and how it can inform us on the history of Earth and other planets. Additionally, I want to better understand the materials that carry these records through deep time. My work aims to span both terrestrial and extraterrestrial mineral assemblages, nanoscale to planetary scale dynamics, and incorporates magnetic and non-magnetic methods.
 
-I am currently a PhD student at the University of Florida where I am a member of the Sprain Research Group. I am currently studying paleomagnetism and geochronology to answer questions related to the long-term history of the Earth's magnetic field.
+I am currently a PhD student at the University of Florida where I am a member of the Sprain Research Group. I am studying paleomagnetism and geochronology to answer questions related to the long-term history of the Earth's magnetic field.
 
 Hobbies
 ======
