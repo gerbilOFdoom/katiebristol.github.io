@@ -13,7 +13,7 @@ name                     : &name "Katie E. Bristol"
 description              : &description "PhD Student, University of Florida"
 url                      : https://katiebristol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "katiebristol/katiebristol.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,16 @@ analytics:
 author:
   name             : "Katie E. Bristol"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student studying Paleomagnetism and Geochronology"
+  location         : "Department of Geological Sciences<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;268 Williamson Hall<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=Y6_xRjkAAAAJ&hl=en"
+  email            : "katiebristol@ufl.edu"
+  researchgate     : "https://www.researchgate.net/profile/Katie-Bristol-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "katiebristol"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3040-5653"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rockmagnetism"
   vine             :
   weibo            :
   xing             :
