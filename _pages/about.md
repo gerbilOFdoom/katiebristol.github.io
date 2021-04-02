@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Katie E. Bristol"
 excerpt: "About me"
 author_profile: true
 header:

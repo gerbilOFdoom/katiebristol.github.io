@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae
-======
+
 <h3> <a href="/images/cv.pdf" download>Download CV</a> </h3>
 <br>
 <br>
