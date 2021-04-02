@@ -9,7 +9,7 @@ header:
   overlay_image: banner.jpg
   actions:
   caption: ""
-excerpt: "PhD Student<br/> University of Florida"
+excerpt: "PhD Student, University of Florida"
 redirect_from: 
   - /about/
   - /about.html
