@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 <h3> <a href="/images/cv.pdf" download>Download CV</a> </h3>
-<br>
 <br>
 <iframe src="/images/cv.pdf#toolbar=0" width="100%" width="600px" height="1000px"></iframe>
