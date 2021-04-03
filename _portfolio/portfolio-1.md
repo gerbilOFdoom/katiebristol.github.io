@@ -1,6 +1,6 @@
 ---
 title: "Colorful metamorphics on Ruby Island, Lake Wanaka, New Zealand."
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ruby-island.png'>"
+excerpt: <img src='/images/ruby-island.png'>
 collection: portfolio
 ---
 
