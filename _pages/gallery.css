@@ -1,0 +1,165 @@
+---
+layout: archive
+title: "Gallery"
+excerpt: "Photos taken during fieldwork, hikes, and other adventures."
+permalink: /gallery/
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: banner3.jpg
+  actions:
+---
+
+<!-- Container for the image gallery -->
+<div class="container">
+
+    <!-- Full-width images with number text -->
+    <div class="mySlides">
+      <div class="numbertext">1 / 6</div>
+        <img src="../images/gallery/whakaari.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">2 / 6</div>
+        <img src="../images/gallery/ngauruhoe.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">3 / 6</div>
+        <img src="../images/gallery/isle-royale.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">4 / 6</div>
+        <img src="../images/gallery/kaikoura.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">5 / 6</div>
+        <img src="../images/gallery/cass-field-station.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">6 / 6</div>
+        <img src="../images/gallery/moskey-basin.jpg" style="width:100%">
+    </div>
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  
+    <!-- Image text -->
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+  
+    <!-- Thumbnail images -->
+    <div class="row">
+      <div class="column">
+        <img class="demo cursor" src="../images/gallery/whakaari.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="../images/gallery/ngauruhoe.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="../images/gallery/isle-royale.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="../images/gallery/kaikoura.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="../images/gallery/cass-field-station.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="../images/gallery/moskey-basin.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      </div>
+    </div>
+  </div>
+
+
+<bold>THIS IS A TEST</bold><br>
+<strong><u>Cool outcrops:</u></strong><p>
+<p>
+    <b>Colorful metamorphics at Ruby Island, Lake Wanaka, New Zealand</b><br>
+    <img src = "../images/gallery/ruby-island.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Stromatolites (~1.1 Ga) at Horseshoe Harbor, Copper Harbor, MI</b><br>
+    <img src = "../images/gallery/stromatolites.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Folded radiolarian ribbon chert in the Marin Headlands, San Francisco Bay Area, CA</b><br>
+    <img src = "../images/gallery/SFchert.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Flame structures near the paparoa metamorphic core complex, New Zealand</b><br>
+    <img src = "../images/gallery/flames.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Massive ignimbrite deposit in Pikowai, Bay of Plenty, New Zealand (Person for scale)</b><br>
+    <img src = "../images/gallery/ignimbrite.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Sigma porphyroclast near the paparoa metamorphic core complex, New Zealand</b><br>
+    <img src = "../images/gallery/sigma.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Diabase dike near Sugarloaf Mountain, Marquette, MI</b><br>
+    <img src = "../images/gallery/dike.jpg" width="600"/>
+</p>
+
+<p>
+    <b>Active bioturbation zone at South Bay, Kaikoura, New Zealand</b><br>
+    <img src = "../images/gallery/bioturbation.jpg" width="600"/>
+</p></p>
+
+<strong><u>Pretty views:</u></strong><p>
+    <p>
+        <b>Whakaari/White Island, Bay of Plenty, New Zealand</b><br>
+        <img src = "../images/gallery/whakaari.jpg" width="600"/>
+    </p>
+    
+    <p>
+        <b>Mt. Ngauruhoe, New Zealand ("Mt. Doom" from LOTR)</b><br>
+        <img src = "../images/gallery/ngauruhoe.jpg" width="600"/>
+    </p>
+    
+    <p>
+        <b>View from the Greenstone Ridge (Mid-Continent Rift volcanics), Isle Royale, MI</b><br>
+        <img src = "../images/gallery/isle-royale.jpg" width="600"/>
+    </p>
+
+    <p>
+        <b>Limestone wave-cut platform at South Bay, Kaikoura, New Zealand</b><br>
+        <img src = "../images/gallery/kaikoura.jpg" width="600"/>
+    </p>
+    
+    <p>
+        <b>Early morning views in Cass, New Zealand</b><br>
+        <img src = "../images/gallery/cass-field-station.jpg" width="600"/>
+    </p>
+    
+    <p>
+        <b>Sunrise at Moskey Basin, Isle Royale, MI</b><br>
+        <img src = "../images/gallery/moskey-basin.jpg" width="600"/>
+    </p>
+
+    <p>
+        <b>Sea platform, exposed after the 2016 Kaikoura earthquake</b><br>
+        <img src = "../images/gallery/sea-platform.jpg" width="600"/>
+    </p>
+    
+    <p>
+        <b>The famous "pancake rocks" at Punakaiki, New Zealand</b><br>
+        <img src = "../images/gallery/punakaiki.jpg" width="600"/>
+    </p></p>
+    
+
+    
