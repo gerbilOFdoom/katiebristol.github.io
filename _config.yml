@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "/images/magnet.png"
+title                    : "magnet.png"
 title_separator          : "-"
 name                     : &name "Katie E. Bristol"
 description              : &description "PhD Student, University of Florida"
@@ -15,7 +15,6 @@ url                      : https://katiebristol.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katiebristol/katiebristol.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "/images/magnet.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
